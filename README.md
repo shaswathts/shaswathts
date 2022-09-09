@@ -5,3 +5,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+there!+👋;This+is+Shaswath...;I+am+an+Embedded+Developer;Nice+to+meet+you!&center=true&size=25">
   </a>
 </h1>
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shaswathts)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://shaswathts.github.io/)  
