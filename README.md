@@ -44,7 +44,7 @@ My name is [**Shaswath Tarikere Srinivas**](https://www.linkedin.com/in/shaswath
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="Sqlite"  alt="Sqlite" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>
-  <img src="https://github.com/shaswathts/shaswathts/blob/profile_update/YoctoProject_Logo_RGB_White_small.svg" title="yocto" **alt="yocto" width="40" height="40"/>
+  <img src="https://github.com/shaswathts/shaswathts/blob/master/YoctoProject_Logo_RGB_White_small.svg" title="yocto" **alt="yocto" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="qt" **alt="qt" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/develop/icons/ros/ros-original-wordmark.svg" title="ros" **alt="ros" width="50" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" title="atom" **alt="atom" width="40" height="40"/>
