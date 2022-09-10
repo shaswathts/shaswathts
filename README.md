@@ -6,8 +6,36 @@
   </a>
 </h1>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shaswathts)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/shaswath-ts-98ab74210//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://shaswathts.github.io/)  
 
 ## A little bit about myself.. 👋😄
 
-My name is [**Shaswath Tarikere Srinivas**](https://www.linkedin.com/in/shaswath-ts-98ab74210/), I am an Embedded software developer with a MSc. in Automotive Embedded Systems by [ESIGELEC](https://www.esigelec.fr/fr) & [MAHE](https://manipal.edu/msis.html) and experience in the mobile robotics sector (spatial representation of the ego robot) and Graphical User Interface. I am currently working for [Transvideo](https://www.transvideo.eu/), more specifically as an [Embedded Linux Engineer](https://github.com/shaswathts/Transvideo), where I contribute to development of Kernel space (add or write new drivers, recompile kernel, modules, modify device tree) and User space (develop target software (Gui, functionalities). Looking forward to talking to you all!
+My name is [**Shaswath Tarikere Srinivas**](https://www.linkedin.com/in/shaswath-ts-98ab74210/), I am an Embedded software developer with a MSc. in Automotive Embedded Systems by [ESIGELEC](https://www.esigelec.fr/fr) & [MAHE](https://manipal.edu/msis.html) and experience in the mobile robotics sector (spatial representation of the ego robot) and Graphical User Interface. I am currently working for [Transvideo](https://www.transvideo.eu/), more specifically as an [Embedded Linux Engineer](https://github.com/shaswathts/Transvideo), where I contribute to development of Kernel space and User space. Looking forward to talking to you all!
+
+## :handshake: Connect with me!
+
+<div align=center>
+  <a href="https://www.linkedin.com/in/robertopastormuela/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"/>
+  </a>
+  <a href="https://www.github.com/RobPasMue">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="GitHub"/>
+  </a>
+  <a href="https://www.dev.to/robpasmue">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" title="dev.to"/>
+  </a>
+  <a href="mailto:roberpm1995@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="GMail"/>
+  </a>
+</div>
+  
+  ## :man_technologist: Software languages
+
+<div align=center>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="40" height="40"/>&nbsp;
+</div>
+
