@@ -14,16 +14,13 @@ My name is [**Shaswath Tarikere Srinivas**](https://www.linkedin.com/in/shaswath
 ## :handshake: Connect with me!
 
 <div align=center>
-  <a href="https://www.linkedin.com/in/robertopastormuela/">
+  <a href="https://www.linkedin.com/in/shaswath-ts-98ab74210/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"/>
   </a>
-  <a href="https://www.github.com/RobPasMue">
+  <a href="https://www.github.com/shaswathts">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="GitHub"/>
   </a>
-  <a href="https://www.dev.to/robpasmue">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" title="dev.to"/>
-  </a>
-  <a href="mailto:roberpm1995@gmail.com">
+  <a href="mailto:shaswathts@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="GMail"/>
   </a>
 </div>
