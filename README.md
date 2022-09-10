@@ -53,6 +53,7 @@ My name is [**Shaswath Tarikere Srinivas**](https://www.linkedin.com/in/shaswath
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="vim" **alt="vim" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" title="gcc" **alt="gcc" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="OpenCV" **alt="OpenCV" width="40" height="40"/>
+  <img src="https://github.com/shaswathts/shaswathts/blob/profile_update/Cairo_banner_closeup.svg.png" title="Cairo" **alt="Cairo" width="40" height="40"/>
   <img src="https://github.com/shaswathts/shaswathts/blob/profile_update/gstreamer.png" title="OpenCV" **alt="OpenCV" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
