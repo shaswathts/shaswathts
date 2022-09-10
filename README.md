@@ -65,10 +65,10 @@ My name is [**Shaswath Tarikere Srinivas**](https://www.linkedin.com/in/shaswath
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=420 src="https://github-readme-streak-stats.herokuapp.com/?user=shaswathts&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+      <img align="left" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=shaswathts&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=420 src="https://github-readme-stats.vercel.app/api?username=shaswathts&count_private=true&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="right" width=400 src="https://github-readme-stats.vercel.app/api?username=shaswathts&count_private=true&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
