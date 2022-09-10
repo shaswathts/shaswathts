@@ -58,3 +58,20 @@ My name is [**Shaswath Tarikere Srinivas**](https://www.linkedin.com/in/shaswath
   <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original-wordmark.svg" title="gimp" **alt="gimp" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" **alt="linux" width="40" height="40"/>
 </div>
+
+## ⚡ GitHub statistics
+
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=420 src="https://github-readme-streak-stats.herokuapp.com/?user=shaswathts&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=420 src="https://github-readme-stats.vercel.app/api?username=shaswathts&count_private=true&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=shaswathts&count_private=true&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
