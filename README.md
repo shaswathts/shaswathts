@@ -2,14 +2,14 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+there!+👋;This+is+Shaswath...;I+am+an+Embedded+Developer;Nice+to+meet+you!&center=true&size=25">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+there!+👋;This+is+Shashwath...;Nice+to+meet+you!&center=true&size=25">
   </a>
 </h1>
 
 
 ## A little bit about myself.. 👋😄
 
-My name is [**Shaswath Tarikere Srinivas**](https://www.linkedin.com/in/shaswath-ts-98ab74210/), I am an Embedded software developer with a MSc. in Automotive Embedded Systems by [ESIGELEC](https://www.esigelec.fr/fr) & [MAHE](https://manipal.edu/msis.html) and experience in the mobile robotics sector (spatial representation of the ego robot) and Graphical User Interface. I am currently working for [Transvideo](https://www.transvideo.eu/), more specifically as an [Embedded Linux Engineer](https://github.com/shaswathts/Transvideo), where I contribute to development of Kernel space and User space. Looking forward to talking to you all!
+My name is [**Shashwath**](https://www.linkedin.com/in/shaswath-ts-98ab74210/), I am an Embedded software Engineer and I am currently working for [Transvideo](https://www.transvideo.eu/), more specifically as an [Embedded Linux Engineer](https://github.com/shaswathts/Transvideo), where I contribute to development of Kernel space and User space. Looking forward to talking to you all!
 
 ## :handshake: Connect with me!
 
@@ -71,7 +71,4 @@ My name is [**Shaswath Tarikere Srinivas**](https://www.linkedin.com/in/shaswath
       <img align="right" width=400 src="https://github-readme-stats.vercel.app/api?username=shaswathts&count_private=true&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
-  <br><br><br><br><br><br><br><br><br>
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=shaswathts&count_private=true&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
